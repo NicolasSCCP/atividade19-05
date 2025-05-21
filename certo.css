@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(247, 242, 236);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    background-image: url(plano-de-fundo-para-celebracoes-de-festas-juninas-brasileiras_23-2150353874.avif);
+   background-size: cover;
+   text-shadow: coral;
+
+}
+
+button{
+    width: 150px;
+    font-size: 25px;
+    background-color: dodgerblue;
+ 
+}
+
+button a {
+
+    text-decoration: none;
+    color: antiquewhite;
+}
